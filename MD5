@@ -1,4 +1,4 @@
-7ffd18ede72802d3d64ffa7748c23cfa *DESCRIPTION
+47d1f30cbc79aceae65788d0739d3ce1 *DESCRIPTION
 57c0538f652e02dd033f59288fd40135 *LICENSE
 444c20afba5ba3dadb71d6766072ab06 *NAMESPACE
 df8967cbd09061ad260a334591fa3ef3 *R/data.R
@@ -17,5 +17,5 @@ a7169091e5e4b54de3b84ce84542aff6 *inst/doc/ToS-dummy.html
 90c0ecc4e4c9fd825ed157993402a55d *man/tosSAP.Rd
 a261c3a2663decbee19b6d31823956ab *man/tosr_load.Rd
 f8dd006f442713b14dda22de3bb18c79 *tests/testthat.R
-99389fd7921c8981d37edeca8de53540 *tests/testthat/test-tosr_load.R
+bad1c16e4164b55221a5c4fa14e83765 *tests/testthat/test-tosr_load.R
 9efed912cea919a89494762a6eedb9e2 *vignettes/ToS-dummy.Rmd
